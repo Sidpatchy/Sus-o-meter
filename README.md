@@ -3,6 +3,9 @@ Detecting sussy links in a user's search history
 
 Sus-o-meter works by reading the browser history of all installed browsers. Then, it checks if any links match the primary-dataset. Finally, it attempts to load each of the pages detected and compares the page title to the data in the secondary-dataset.
 
+## Why?
+Idk, it sounded funny in my head.
+
 # Usage
 Clone the repository:
 ```bash
