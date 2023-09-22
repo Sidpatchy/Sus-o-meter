@@ -22,3 +22,5 @@ Run sus-o-meter.py:
 ```bash
 python sus-o-meter.py
 ```
+# For my future employers
+Look, this is a perfectly normal thing to do. (please hire me)
