@@ -30,7 +30,7 @@ async def main():
 
     # Loop through history and print the title and URL
     for entry in tqdm(history, desc="Processing URLs", unit="URL"):
-        date, url = entry
+        date, url, title = entry
 
         for regex in primary_dataset_regex:
             if regex.search(url):

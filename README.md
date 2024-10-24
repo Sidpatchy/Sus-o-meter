@@ -15,7 +15,7 @@ cd Sus-o-meter/
 
 Install the required dependencies:
 ```bash
-pip install tqdm beautifulsoup4 browser_history
+pip install tqdm beautifulsoup4 browser_history requests
 ```
 
 Run sus-o-meter.py:
